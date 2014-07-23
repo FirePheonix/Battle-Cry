@@ -1,0 +1,9 @@
+var armor = {
+	
+	warrior : {
+
+		main :  [ {
+
+		} ],	
+	},
+};
